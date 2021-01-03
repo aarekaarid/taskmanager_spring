@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+    <changeSet  author="authorName"  id="changelog-1.0">
+
+        <createTable tableName="task_table">
+
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints  nullable="false"  primaryKey="true"  unique="true"/>
+            </column>
+
+            <column name="task_name" type="text">
+            </column>
+
+            <column name="task_created" type="timestamp">
+            </column>
+
+            <column name="task_deadline" type="timestamp">
+            </column>
+
+            <column name="task_status" type="text">
+            </column>
+
+        </createTable>
+
+    </changeSet>
+</databaseChangeLog>
