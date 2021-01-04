@@ -10,7 +10,7 @@
 
 ## Requirements
 For building and running the application you need:
-* JDK 1.8 or later
+* JDK 15
 * pgAdmin for postgreSQL
 * IntelliJ IDEA
 
