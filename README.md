@@ -43,3 +43,6 @@ spring.datasource.password=yourpassword
 * run taskmanager_spring app in IDE by selecting Run/run 'taskmanager_spring' [Shift+F10]
 * Now the Java server should come up in port 8080;
 * if everything works, you should see in Run window of your IDE: Java server UP'n'RUNNIN'
+
+## Author
+Aare Käärid
