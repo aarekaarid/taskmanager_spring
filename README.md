@@ -2,7 +2,8 @@
 
 ## Project Description
 This is Taskmanager App Backend part. It works as REST API.
-It's the backend part of the whole project. It goes along with taskmanager_vue repository.
+It's the backend part of the whole project.
+It goes along with Frontend part taskmanager_vue repository.
 
 ## Requirements
 For building and running the application you need:
