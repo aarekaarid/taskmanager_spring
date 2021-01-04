@@ -11,7 +11,7 @@ For building and running the application you need:
 * IntelliJ IDEA
 
 ## Running taskmanager_spring locally
-git clone https://github.com/spring-projects/spring-petclinic.git
-cd spring-petclinic
+git clone https://github.com/aarekaarid/taskmanager_spring.git
+cd taskmanager_spring
 ./mvnw package
 java -jar target/*.jar
