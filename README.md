@@ -1,4 +1,4 @@
-# Simple Taskmanager Project Backend part
+# Simple Taskmanager Project - Backend
 *Java/Springboot/postgreSQL/Liquibase*
 
 ## Project Description
