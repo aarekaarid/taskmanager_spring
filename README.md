@@ -11,7 +11,9 @@
 ## Requirements
 For building and running the application you need:
 * JDK 15
-* pgAdmin for postgreSQL
+* pgAdmin for postgreSQL database setup:
+  * here an empty database must be created and named to: taskmanager
+  * also remember the database username and password for future reference
 * IntelliJ IDEA
 
 ## Run taskmanager_spring app locally
