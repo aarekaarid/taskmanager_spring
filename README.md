@@ -1,4 +1,4 @@
-# Simple Taskmanager Project
+# Simple Taskmanager Project Backend part
 
 ## Project Description
 This is Taskmanager App Backend part. It works as REST API.
@@ -13,5 +13,4 @@ For building and running the application you need:
 ## Running taskmanager_spring locally
 git clone https://github.com/aarekaarid/taskmanager_spring.git
 cd taskmanager_spring
-./mvnw package
-java -jar target/*.jar
+
